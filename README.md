@@ -9,7 +9,7 @@
 </ul>
 <br>
 
-<p align="left"><b>Tech Stack Used</b></p>
+<p align="left"><b>Tech Stack Use</b></p>
 <ul>
 <li>Front-End : 
   <ul>
