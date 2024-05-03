@@ -1,4 +1,4 @@
-<h1 align="center">BookHook</h1>
+<h1 align="center">TechMate</h1>
 <p align="left">This web-application is designed for individuals looking to improve their clarity and effectiveness when communicating via online messaging platforms. It helps users to convey their messages in an easy to understand way, so that their intended message is clear and laser-focused. This app allows users to optimize their text for maximum impact, and make sure that their message is well-received by its intended audience.</p>
 <br>
 <p align="left"><b>It provides following features to end users</b></p>
